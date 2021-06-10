@@ -15,4 +15,7 @@ DCBDB ADCBC BC
 
 ## 三、解答题
 17.
-<image src="/PHOTO1.JPG"></image>
+<image src="IMG20210610102447"></image>
+
+18 - 21.
+<image src="IMG20210610102457"></image>
